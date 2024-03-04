@@ -10,5 +10,10 @@ struct product{
     int quantity;
 };
 
+void addProduct();
+void removeProduct();
+void buyProduct();
+void sellProduct();
+
 
 #endif
