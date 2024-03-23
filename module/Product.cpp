@@ -1,6 +1,7 @@
 #include "Product.h"
+#include "ProductList.h"
 
-void addProduct(){
+void addProduct(productList &l, product){
 
 }
 
